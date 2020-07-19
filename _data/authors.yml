@@ -1,16 +1,29 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Felipe Echandi:
+  name: Felipe Echandi
+  picture: https://avatars0.githubusercontent.com/u/7220153?v=4
+  twitter: "@felcheck"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/felcheck
       icon: fab fa-twitter-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+José Varela:
+  name: José Varela
+  picture: /images/bio-photo-2.jpg
+  twitter: "@jose_r_varela"
+  links:
+    - title: Twitter
+      url: https://twitter.com/jose_r_varela
+      icon: fab fa-twitter-square
+
+Henry Faarup:
+  name: Henry Faarup
+  picture: https://pbs.twimg.com/profile_images/1062803429242871809/XjZ_ylnF_400x400.jpg
+  twitter: "@henryfaarup"
+  links:
+    - title: Twitter
+      url: https://twitter.com/henryfaarup
+      icon: fab fa-twitter-square
